@@ -1,7 +1,7 @@
 
 # Bash Scripting
 
-A brief description of what this project does and who it's for
+A command line interpreter which stands for the "Bourne Shell Again", the need for bash scripting arise to automate the tasks.
 
 First to open and create any directory and make one file with ".sh" extension.
 ```bash
